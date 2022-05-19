@@ -1,8 +1,11 @@
 eclipse.preferences.version=1
+encoding//src/antiguo/EjercicioString1.java=UTF-8
+encoding//src/antiguo/Main4String.java=UTF-8
 encoding//src/clasejava/Avion.java=UTF-8
 encoding//src/clasejava/Bicicleta.java=UTF-8
 encoding//src/clasejava/Coche.java=UTF-8
 encoding//src/clasejava/Estudiante.java=UTF-8
 encoding//src/clasejava/Vehiculo.java=UTF-8
-encoding//src/curso/Main.java=UTF-8
-encoding//src/curso/Persona.java=UTF-8
+encoding//src/cursoherencia/Main.java=UTF-8
+encoding//src/cursoherencia/Persona.java=UTF-8
+encoding//src/cursointerface/Persona.java=UTF-8

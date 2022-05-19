@@ -1,4 +1,4 @@
-package curso;
+package cursoherencia;
 
 import java.util.ArrayList;
 

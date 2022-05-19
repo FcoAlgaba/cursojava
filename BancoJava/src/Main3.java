@@ -8,7 +8,7 @@ public class Main3 {
 
 		/*
 		 * Ejercicio proyecto (Main3): reutiliza el programa desarrollado anteriormente
-		 * para mostrar el siguiente menú antes de solicitar el número por pantalla al
+		 * para mostrar el siguiente menï¿½ antes de solicitar el nï¿½mero por pantalla al
 		 * usuario:
 		 */
 		
@@ -24,10 +24,10 @@ public class Main3 {
 			System.out.println("2. Clientes");
 			System.out.println("3. Transferencias");
 			System.out.println("4. Mensajes");
-			System.out.println("5. Préstamos");
+			System.out.println("5. Prï¿½stamos");
 			System.out.println("6. Salir");
 			System.out.println("---");
-			System.out.print("Introduzca elección: ");
+			System.out.print("Introduzca elecciï¿½n: ");
 			eleccion = keyboard.nextInt();
 		} while (eleccion != 6);
 

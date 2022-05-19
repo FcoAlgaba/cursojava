@@ -1,6 +1,6 @@
-package curso;
+package cursoherencia;
 
-public class Persona {
+public abstract class Persona {
 
 	// atributos
 	protected int id;
@@ -16,6 +16,8 @@ public class Persona {
 		this.edad = edad;
 		this.telefono = telefono;
 	}
+	public abstract void mostrarID();
+	
 	
 	// M�todos publicos no est�ticos
 	public void mostrarInfo() {

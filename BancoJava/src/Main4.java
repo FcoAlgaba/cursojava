@@ -8,13 +8,14 @@ public class Main4 {
 
 		/*
 		 * Ejercicio proyecto (Main4): reutiliza el programa desarrollado para mostrar
-		 * los mensajes (Gestores, Clientes, Transferencias, Mensajes, Préstamos) en
-		 * métodos (un método por cada mensaje).
+		 * los mensajes (Gestores, Clientes, Transferencias, Mensajes, Prï¿½stamos) en
+		 * mï¿½todos (un mï¿½todo por cada mensaje).
 		 */
 
 		Scanner keyboard = new Scanner(System.in);
 
 		int eleccion = 6;
+		
 		do {
 
 			System.out.println("---");
@@ -22,10 +23,10 @@ public class Main4 {
 			System.out.println("2. Clientes");
 			System.out.println("3. Transferencias");
 			System.out.println("4. Mensajes");
-			System.out.println("5. Préstamos");
+			System.out.println("5. Prï¿½stamos");
 			System.out.println("6. Salir");
 			System.out.println("---");
-			System.out.print("Introduzca elección: ");
+			System.out.print("Introduzca elecciï¿½n: ");
 			eleccion = keyboard.nextInt();
 		} while (eleccion != 6);
 

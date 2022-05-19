@@ -1,4 +1,4 @@
-package curso;
+package cursoherencia;
 
 public class Estudiante extends Persona {
 	// Atributos
@@ -61,6 +61,13 @@ public class Estudiante extends Persona {
 
 	public static void crearEstudiante() {
 
+	}
+
+	@Override
+	public void mostrarID() {
+		System.out.println(this.id);
+		
+		
 	}
 
 }
